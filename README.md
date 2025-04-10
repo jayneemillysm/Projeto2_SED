@@ -64,3 +64,10 @@ Abaixo está o modelo das células 1, 2, 3 e 4 representadas no CPN Tools:
   <img src="Célula4.png" width="380"/>
 </p>
 
+A fábrica engloba as quatro células de manufatura, cada uma operando de forma independente, mas compondo, em conjunto, o sistema produtivo completo. O papel da fábrica é, portanto, coordenar e garantir o funcionamento integrado dessas células, assegurando que o fluxo produtivo ocorra de forma contínua, sem interrupções ou bloqueios, e respeitando as restrições de capacidade de armazenamento de cada depósito.
+
+O modelo de Redes de Petri Coloridas desenvolvido reflete essa estrutura, permitindo a análise do comportamento global da fábrica a partir da interação simultânea entre as quatro células.
+
+<p align="center">
+  <img src="Fábrica.png" width="300"/>
+</p>
