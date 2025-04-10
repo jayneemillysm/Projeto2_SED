@@ -79,5 +79,7 @@ O modelo de Redes de Petri Coloridas desenvolvido reflete essa estrutura, permit
   <img src="Fábrica.png" width="400"/>
 </p>
 
+---
 
- 
+## Vídeo de apresentação
+Link de acesso ao vídeo no YouTube: 
