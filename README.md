@@ -24,7 +24,7 @@ O objetivo é modelar, analisar e validar o comportamento operacional de quatro 
 
 2. Três máquinas sequenciais com depósitos próprios de entrada e saída (cada um com capacidade máxima de 4 itens);
 
-3. Três robôs responsáveis pela movimentação dos itens entre os depósitos internos às células.
+3. Três robôs responsáveis pela movimentação dos itens entre os depósitos internos de cada célula.
 
 Cada célula possui duas rotas possíveis de produção, garantindo flexibilidade operacional sem ocorrer bloqueios no sistema.
 
