@@ -12,7 +12,7 @@ Este repositório é referente ao Projeto 02 da disciplina Sistemas a Eventos Di
 ---
 
 ## Descrição
-Este projeto consiste na modelagem e simulação de um sistema de manufatura composto por quatro células, utilizando Redes de Petri Coloridas através da ferramenta CPN Tools.
+O projeto consiste na modelagem e simulação de um sistema de manufatura composto por quatro células, utilizando Redes de Petri Coloridas através da ferramenta CPN Tools.
 
 ---
 
