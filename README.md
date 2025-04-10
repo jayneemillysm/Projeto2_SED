@@ -55,13 +55,13 @@ Redes de Petri Coloridas para representação detalhada do fluxo dos processos p
 Abaixo está o modelo das células 1, 2, 3 e 4 representadas no CPN Tools:
 
 <p align="center">
-  <img src="Célula1.png" width="400"/>
-  <img src="Célula2.png" width="388"/>
+  <img src="FIgs/Célula1.png" width="400"/>
+  <img src="FIgs/Célula2.png" width="388"/>
 </p>
 
 <p align="center">
-  <img src="Célula3.png" width="400"/>
-  <img src="Célula4.png" width="380"/>
+  <img src="FIgs/Célula3.png" width="400"/>
+  <img src="FIgs/Célula4.png" width="380"/>
 </p>
 
 
@@ -76,7 +76,7 @@ O modelo de Redes de Petri Coloridas desenvolvido reflete essa estrutura, permit
 ### Diagrama Geral da Fábrica
 
 <p align="center">
-  <img src="Fábrica.png" width="400"/>
+  <img src="FIgs/Fábrica.png" width="400"/>
 </p>
 
 ---
