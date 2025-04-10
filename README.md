@@ -44,5 +44,9 @@ O modelo garante o controle adequado das filas, respeitando a capacidade máxima
 
 ---
 
+## Modelagem
 
+Redes de Petri Coloridas para representação detalhada do fluxo dos processos produtivos, implementadas na ferramenta CPN Tools.
+
+---
 
