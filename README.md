@@ -30,3 +30,19 @@ Cada célula possui duas rotas possíveis de produção, garantindo flexibilidad
 
 ---
 
+## Funcionalidades e Estrutura do Sistema
+
+Cada célula contém:
+
+Robô 1: Transporta itens do depósito de entrada da célula até o depósito de entrada da Máquina 1.
+
+Robô 2: Transporta itens do depósito de saída da Máquina 1 para os depósitos de entrada das Máquinas 2 e 3.
+
+Robô 3: Transporta itens dos depósitos de saída das Máquinas 2 e 3 até o depósito de saída da célula.
+
+O modelo garante o controle adequado das filas, respeitando a capacidade máxima de cada depósito (4 itens), e evita a ocorrência de deadlocks.
+
+---
+
+
+
