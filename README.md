@@ -54,6 +54,6 @@ Redes de Petri Coloridas para representação detalhada do fluxo dos processos p
 
 Abaixo está o modelo de uma das células representado no CPN Tools:
 
-![Modelo CPN Tools](imgs/modelo-celula.png)
+![Modelo CPN Tools](imgs/Célula1.png)
 
 
