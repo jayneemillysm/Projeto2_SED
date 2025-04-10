@@ -69,5 +69,5 @@ A fábrica engloba as quatro células de manufatura, cada uma operando de forma 
 O modelo de Redes de Petri Coloridas desenvolvido reflete essa estrutura, permitindo a análise do comportamento global da fábrica a partir da interação simultânea entre as quatro células.
 
 <p align="center">
-  <img src="Fábrica.png" width="300"/>
+  <img src="Fábrica.png" width="400"/>
 </p>
