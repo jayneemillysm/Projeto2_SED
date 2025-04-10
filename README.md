@@ -56,7 +56,7 @@ Abaixo está o modelo das células 1, 2, 3 e 4 representadas no CPN Tools:
 
 <p align="center">
   <img src="Célula1.png" width="400"/>
-  <img src="Célula2.png" width="390"/>
+  <img src="Célula2.png" width="388"/>
 </p>
 
 
