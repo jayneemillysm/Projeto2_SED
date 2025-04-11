@@ -82,4 +82,4 @@ O modelo de Redes de Petri Coloridas desenvolvido reflete essa estrutura, permit
 ---
 
 ## Vídeo de apresentação
-Link de acesso ao vídeo no YouTube: 
+Link de acesso ao vídeo no YouTube no canal ArthurzinhoGampleays2022: 
