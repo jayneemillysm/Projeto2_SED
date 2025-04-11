@@ -52,17 +52,15 @@ Redes de Petri Coloridas para representação detalhada do fluxo dos processos p
 
 ## Diagrama do Modelo
 
-Abaixo está o modelo das células 1, 2, 3 e 4 representadas no CPN Tools:
+Abaixo está o modelo das células 1, 2, 3 e 4 representadas no CPN Tools. Todas elas seguem o mesmo modelo do disposto na Figura.
 
 <p align="center">
-  <img src="FIgs/Célula1.png" width="400"/>
-  <img src="FIgs/Célula2.png" width="388"/>
+  <img src="FIgs/cell.png" width="600"/>
 </p>
 
-<p align="center">
-  <img src="FIgs/Célula3.png" width="400"/>
-  <img src="FIgs/Célula4.png" width="380"/>
-</p>
+Dentro de cada célula existem os elementos de buffer, representados pelos places com o prefixo "b". Todos os places são do tipo ROTA, que é o colorset que define a rota que cada item irá tomar, podendo ser I ou J. Os places armazenam os tokens "item" do tipo ROTA, ou seja, os itens e suas respectivas rotas. 
+Além disso, existem as transições com o prefixo "m", que representam "move" e movimentam os itens de um buffer para outro, e as com o prefixo "p", que representam "process", ou seja, o processamento do item pela máquina, movendo-o da entrada para a saída. 
+Por fim, existem os places com o prefixo "c", que representam os contadores de controle de capacidade dos buffers.
 
 
 ## Papel da Fábrica
